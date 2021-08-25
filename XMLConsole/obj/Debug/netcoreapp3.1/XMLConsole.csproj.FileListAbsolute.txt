@@ -1,0 +1,13 @@
+C:\Users\h-kashiwagi\Desktop\XMLConsole\XMLConsole\bin\Debug\netcoreapp3.1\XMLConsole.exe
+C:\Users\h-kashiwagi\Desktop\XMLConsole\XMLConsole\bin\Debug\netcoreapp3.1\XMLConsole.deps.json
+C:\Users\h-kashiwagi\Desktop\XMLConsole\XMLConsole\bin\Debug\netcoreapp3.1\XMLConsole.runtimeconfig.json
+C:\Users\h-kashiwagi\Desktop\XMLConsole\XMLConsole\bin\Debug\netcoreapp3.1\XMLConsole.runtimeconfig.dev.json
+C:\Users\h-kashiwagi\Desktop\XMLConsole\XMLConsole\bin\Debug\netcoreapp3.1\XMLConsole.dll
+C:\Users\h-kashiwagi\Desktop\XMLConsole\XMLConsole\bin\Debug\netcoreapp3.1\XMLConsole.pdb
+C:\Users\h-kashiwagi\Desktop\XMLConsole\XMLConsole\obj\Debug\netcoreapp3.1\XMLConsole.csproj.AssemblyReference.cache
+C:\Users\h-kashiwagi\Desktop\XMLConsole\XMLConsole\obj\Debug\netcoreapp3.1\XMLConsole.AssemblyInfoInputs.cache
+C:\Users\h-kashiwagi\Desktop\XMLConsole\XMLConsole\obj\Debug\netcoreapp3.1\XMLConsole.AssemblyInfo.cs
+C:\Users\h-kashiwagi\Desktop\XMLConsole\XMLConsole\obj\Debug\netcoreapp3.1\XMLConsole.csproj.CoreCompileInputs.cache
+C:\Users\h-kashiwagi\Desktop\XMLConsole\XMLConsole\obj\Debug\netcoreapp3.1\XMLConsole.dll
+C:\Users\h-kashiwagi\Desktop\XMLConsole\XMLConsole\obj\Debug\netcoreapp3.1\XMLConsole.pdb
+C:\Users\h-kashiwagi\Desktop\XMLConsole\XMLConsole\obj\Debug\netcoreapp3.1\XMLConsole.genruntimeconfig.cache
