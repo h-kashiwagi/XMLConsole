@@ -9,9 +9,9 @@ namespace Sample
     {
         static void Main(string[] args)
         {
-            //"Shift_JIS"を読み込む方法
+            //"Shift_JIS"を読み込む方法※WindowsFormsなら不要
             System.Text.Encoding.RegisterProvider(System.Text.CodePagesEncodingProvider.Instance);
-            //xmlファイルを指定する
+            //xmlファイルを指定する※ファイルパスは@が必要
             XElement xml = XElement.Load(@"C:\Users\h-kashiwagi\Desktop\XMLConsole\XMLConsole\XML\sample.xml");
 
             //メンバー情報のタグ内の情報を取得する
